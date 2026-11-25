@@ -1,4 +1,4 @@
-# Nexus Reader：便捷阅读网络漫画、日本漫画和日本漫画
+# Nexus Reader：便捷阅读网络漫画、日本漫画和日本漫画 
 
 采用 Kotlin 和 Jetpack Compose 开发，兼容 Android 7 至 16，内置浏览器，支持自动深色模式、本地房间的私密收藏和历史记录，以及每 15 分钟的后台 RSS 推送。
 
