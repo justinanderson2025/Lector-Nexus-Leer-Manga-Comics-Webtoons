@@ -6,7 +6,7 @@ Desarrollado en Kotlin y Jetpack Compose compatible con con Android 7 a 16, con 
 
 Landing page oficial de **Nexus (Lector Nexus)**, aplicación nativa Android desarrollada en **Kotlin** y **Jetpack Compose (Material Design 3)** para explorar manga, webtoons y cómics, con modo oscuro web automático, favoritos e historial privados en Room (SQLite local), alertas RSS en segundo plano cada 15 minutos y verificador de actualizaciones.
 
-## Ficha técnica de la aplicación Android
+## Ficha técnica de la aplicación Android 
 
 | Dato | Valor |
 | --- | --- |
