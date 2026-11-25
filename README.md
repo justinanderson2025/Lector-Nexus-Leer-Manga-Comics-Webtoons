@@ -48,3 +48,11 @@ keytool -printcert -jarfile nexus.apk
 ```
 
 ---
+
+## Futuras Versiones y Magnitud del Proyecto
+
+La idea es simple, para que tener decenas de apps separadas para leer vuestros cómics favoritos cuando se podría unificar todo en un único repositorio con mas de 2 millones de obras y actualizado diariamente con nuevos material.
+
+Se estan haciendo pruebas de carga de servidores y stress para idear el mejor plan de desarrollo para semejante proyecto, que nació simplemente como un acceso a unos miles de comics para dar paso en un futuro a millones de posts listos para leer en linea o descargarlos en formato PDF o CBR.
+
+---
