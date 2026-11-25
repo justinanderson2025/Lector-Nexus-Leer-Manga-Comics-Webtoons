@@ -6,7 +6,7 @@ Developed using Kotlin and Jetpack Compose, and compatible with Android 7 throug
 
 The official landing page for **Nexus (Nexus Reader)**—a native Android application built with **Kotlin** and **Jetpack Compose (Material Design 3)**. Designed for exploring manga, webtoons, and comics, it includes automatic dark mode for web content, private bookmarks and history stored locally in Room (SQLite), background RSS alerts (checking every 15 minutes), and an update checker.
 
-## Android Application Technical Specifications
+## Android Application Technical Specifications 
 
 | Detail | Value |
 | --- | --- |
