@@ -13,7 +13,8 @@ Landing page oficial de **Nexus (Lector Nexus)**, aplicación nativa Android des
 | **Nombre / Título interno** | Nexus (`Lector Nexus`) |
 | **ID de paquete (`applicationId`)** | `com.henfluxdevelopments.nexus` |
 | **Repositorio GitHub** | [justinanderson2025/Lector-Nexus-Leer-Manga-Comics-Webtoons](https://github.com/justinanderson2025/Lector-Nexus-Leer-Manga-Comics-Webtoons) |
-| **Versión actual** | `1.0a` (inicio en `1.0-beta`, `versionCode: 1`) |
+| **Versión Inicial** | `1.0a` (inicio en `1.0a-beta`, `versionCode: 1`) |
+| **Versión actual** | `1.1a` (inicio en `1.1a-beta`, `versionCode: 3`) |
 | **Archivo instalador** | `nexus.apk` |
 | **Compatibilidad Android** | Android 7.0 Nougat (`API 24`) hasta Android 16 (`API 36`) |
 | **Stack Android** | Kotlin, Jetpack Compose (Material 3), Room (SQLite), DataStore, OkHttp, Coil |
